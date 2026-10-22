@@ -1,0 +1,65 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f4f6f9;
+}
+
+
+/* Header */
+
+header {
+    background: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+}
+
+
+/* Layout */
+
+.container {
+    display: flex;
+}
+
+
+/* Sidebar */
+
+.sidebar {
+    width: 250px;
+    background: #f9f9f9;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+}
+
+.sidebar h3 {
+    margin-bottom: 10px;
+}
+
+.filter {
+    margin-bottom: 25px;
+}
+
+.filter h4 {
+    margin-bottom: 10px;
+}
+
+.filter label {
+    display: block;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+
+/* Jobs Section */
+
+.jobs-content {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-jobs {
+    color: #777;
+}

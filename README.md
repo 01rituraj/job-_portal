@@ -2,7 +2,15 @@
 
 ## 📌 Project Overview
 The Job Portal Website is a web development project built using HTML5 and CSS3. It provides a clean and user-friendly interface for exploring job opportunities, browsing job categories, and accessing login and registration options.
-<img width="1862" height="875" alt="image" src="https://github.com/user-attachments/assets/4e7702c5-90a1-472d-b737-a5148317b8db" />
+<img width="1867" height="919" alt="image" src="https://github.com/user-attachments/assets/cc5f1573-a5fe-4315-96d8-3669b5f00998" />
+<img width="1865" height="919" alt="image" src="https://github.com/user-attachments/assets/438c300d-97aa-4697-a014-6f6f3b58ed6f" />
+<img width="1868" height="922" alt="image" src="https://github.com/user-attachments/assets/06bf308a-4449-417c-ac28-f2f464932881" />
+<img width="1855" height="917" alt="image" src="https://github.com/user-attachments/assets/592062b5-5af9-466e-a120-d0e282ca565e" />
+<img width="1876" height="913" alt="image" src="https://github.com/user-attachments/assets/256f501f-9d99-48eb-8f61-0aa3678cfbf8" />
+
+
+
+
 
 ## ✨ Features
 - **Navigation Bar:** Home, Browse, Jobs, and About sections.
